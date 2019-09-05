@@ -1,0 +1,41 @@
+stu{
+	display:block;
+	margin-top:10px;
+	color:blue;
+}
+
+usn{
+	display:block;
+	margin-left:20px;
+	font-size:12pt;
+	color:green;
+}
+nam{
+	display:block;
+	margin-left:20px;
+	font-size:12pt;
+	color:red;
+}
+branch{
+	display:block;
+	margin-left:20px;
+	font-size:12pt;
+	color:blue;
+}
+year{
+	display:block;
+	margin-left:20px;
+	font-size:12pt;
+	color:white;
+}
+email{
+	display:block;
+	font-size:12pt;
+	margin-left:20px;
+	color:purple;
+}
+list{
+	max-width:30%;
+	margin:auto;
+	background-color:georgian;
+}
