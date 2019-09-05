@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prog5.css"?>
+<list>
+<stu>
+<usn>USN: 4vv16cs100</usn>
+<nam>Name: Kai Greene</nam>
+<branch>Branch: CSE </branch>
+<year>Year: 2020</year>
+<email>Email: Kai@vvce.ac.in</email>
+</stu>
+<stu>
+<usn>USN: 4vv16cs200</usn>
+<nam>Name: Phil Heath</nam>
+<branch>Branch: ISE </branch>
+<year>Year: 2021</year>
+<email>Email: Phil@vvce.ac.in</email>
+</stu>
+<stu>
+<usn>USN: 4vv16cs300</usn>
+<nam>Name: Shawn Rhoden</nam>
+<branch>Branch: ECE </branch>
+<year>Year: 2019</year>
+<email>Email: Shawn@vvce.ac.in</email>
+</stu>
+<stu>
+<usn>USN: 4vv16cs001</usn>
+<nam>Name: Arnold</nam>
+<branch>Branch: EEE </branch>
+<year>Year: 2018</year>
+<email>Email: Arnold@vvce.ac.in</email>
+</stu>
+</list>
